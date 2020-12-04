@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "code": "A-01",
+      "name": "Jaket E Edit",
+      "photos": [2, 4, 5],
+      "category": 1,
+      "description": "lorem ipsum",
+      "price": 200000
+    },
+    {
+      "code": "A-01",
+      "name": "Jaket E Edit",
+      "photos": [2, 4, 5],
+      "category": 1,
+      "description": "lorem ipsum",
+      "price": 200000
+    }
+  ],
+  "categories": [],
+  "photos": []
+}

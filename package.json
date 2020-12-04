@@ -1,0 +1,29 @@
+{
+  "name": "flat-json-api",
+  "version": "1.0.0",
+  "description": "Simple NodeJS CRUD API using flat json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrdtr/flat-json-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "json",
+    "crud"
+  ],
+  "author": "Herdi Tr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hrdtr/flat-json-api/issues"
+  },
+  "homepage": "https://github.com/Hrdtr/flat-json-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0"
+  }
+}
